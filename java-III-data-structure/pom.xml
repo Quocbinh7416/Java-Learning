@@ -15,6 +15,7 @@
         <module>java-52-string</module>
         <module>java-53-array-copy</module>
         <module>java-54-compare</module>
+        <module>java-55-array</module>
     </modules>
 
     <properties>
